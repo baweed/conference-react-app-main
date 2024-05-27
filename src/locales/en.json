@@ -1,0 +1,109 @@
+{
+  "header": {
+    "digest": "Conference proceedings",
+    "program": "Program",
+    "organizationalCommittee": "Organizational committee",
+    "internationalCommittee": "International committee",
+    "articleRules": "Article rules",
+    "contacts": "Contacts",
+    "registrationForm": "Register",
+    "closeMenu": "test"
+  },
+  "promoSection": {
+    "heading": "III International Youth Scientific School",
+    "subHeading": "Monitoring, protection and restoration of soil ecosystems under anthropogenic load",
+    "text": "In June 2024, on the basis of the Soil Health Laboratory of the D.I. Ivanovsky Academy of Biology and Biotechnology and the branch of the South Federal University in Gelendzhik, the III International Youth Scientific School “Monitoring, protection and restoration of soil ecosystems under anthropogenic load” will take place. It will be held in a hybrid format (in-person and remote). During the school, aspiring researchers, postgraduates and students will have the opportunity to listen to lectures by Russian and foreign leading scientists, attend master classes and discuss topical issues of monitoring, protection and restoration of soil ecosystems under anthropogenic load",
+    "btn": "Register"
+  },
+  "infoSection": {
+    "themesHeading": "SCIENTIFIC TOPICS OF THE CONFERENCE",
+    "themeList": {
+      "theme1": "Natural and anthropogenic factors of soil formation in the steppe and forest-steppe zones. Actual problems of physics, chemistry, biogeochemistry, and soil biology.",
+      "theme2": "The role of the soil cover in ensuring the food security of the country. Resource-saving technologies in increasing the fertility of agricultural lands in the steppe and forest-steppe zones.",
+      "theme3": "Theoretical and practical aspects of the assessment, protection, and rational use of soil cover with the participation of chernozems.",
+      "theme4": "Soils of urban and technogenic landscapes of the steppe and forest-steppe zones."
+    },
+    "spendingTime": "Time of the conference: June 7-9, 2024",
+    "programHeading": "SAMPLE PROGRAM OF THE CONFERENCE",
+    "program": {
+      "item1": "<span>07.06.2023</span> — arrival day, event opening, plenary sessions",
+      "item2": "<span>08.06.2023</span> — plenary sessions, sectional meetings",
+      "item3": "<span>09.06.2023</span> — sectional meetings, event closing"
+    },
+    "place": "<span>VENUE</span> — Gelendzhik, Zastavnaya str., 10a",
+    "language": "<span>CONFERENCE LANGUAGE</span> — Russian, English",
+    "participationForms": "<span>FORMS OF PARTICIPATION</span> — in-person participation (presentation or poster presentation and publication of materials, online presentation) and distance participation (publication of materials only). ",
+    "deadlineHeading": "CONTROL DATES",
+    "deadlines": {
+      "date1": "<span>20.07.2023</span> — deadline for submitting the registration form",
+      "date2": "<span>20.08.2023</span> — deadline for submitting abstracts"
+    },
+    "digest": "View the conference proceedings"
+  },
+  "membersSection": {
+    "organisingHeading": "ORGANIZING COMMITTEE OF THE CONFERENCE",
+    "organisingChairs": "Chairman",
+    "organisingCoChairs": "Co-Chairs",
+    "organisingMembers": "Members of the Organizing Committee",
+    "intHeading": "INTERNATIONAL PROGRAM COMMITTEE OF THE CONFERENCE",
+    "intChairs": "Chairman",
+    "organisingIntChairs": "Co-Chairs",
+    "intMembers": "Program Committee members",
+    "secretaryHeading":	"Secretary of the Organizing Committee",
+    "techSecretaryHeading":	"Technical secretaries"
+  },
+  "registrationForm": {
+    "heading": "Registration form",
+    "description": "To participate in the International Youth School-seminar",
+    "rulesAppendix": "Rules for the design of articles",
+    "lastname": "Lastname",
+    "firstname": "Firstname",
+    "middleName": "Middle Name",
+    "city": "City",
+    "organization": "Organization",
+    "position": "Position",
+    "academicDegree": "Academic degree",
+    "academicGrade": "Academic grade",
+    "reportName": "Report name",
+    "conferenceDirection": "Conference direction (1 - 4)",
+    "concernForm": "Form of participation",
+    "email": "Email",
+    "phoneNumber": "Phone number",
+    "address": "Address",
+    "booking": {
+      "label": "Booking (select)",
+      "optionsTitle": "Select an option",
+      "independently": "By yourself",
+      "required": "Space required",
+      "hasRoom": "Room in campus"
+    },
+    "dropZoneLabel": "<span>Click to upload</span> or drag",
+    "errorMsg":{
+      "required": "Required field",
+      "minLength": "Minimum of 2 characters",
+      "file": "All files must be in doc or docx format",
+      "fileEmpty": "At least one file required"
+    },
+    "dropZoneDescription": "The file containing the application for participation should be named as follows: The name of the participant, the word \"Application\" separated by a space (Ivanov_zajavka-conf.doc ) or (Ivanov_zajavka-shkola.doc ), a separate application should be made for each co-author. The file containing the article should be named after the first author (Ivanov.doc ).",
+    "submit": {
+      "idle": "Send a request",
+      "pending": "Sending...",
+      "error": "Error",
+      "success": "Success"
+    }
+  },
+  "articleRulesSection": {
+    "p1": "Publications: The proceedings are planned to be published by the beginning of the youth scientific school. The proceedings will not be sent by mail. The articles will be indexed in RSCI.",
+    "p2": "There is no registration fee for participation in the youth scientific school. ",
+    "p3": "Participants book their own accommodation. The accommodation options for selfbooking in <a>hotels</a> can be found in the annex.",
+    "p4": "Those wishing to book accommodation at the new campus of the Southern Federal University at 21 Sorge Street must submit an application to the address of the organizing committee of the conference no later than August 25, 2023. The cost of accommodation in double rooms with a separate kitchen is 700 rubles. per day (the price on the date of sending the letter)."
+  },
+  "contactsSection": {
+    "address": "ORGANIZING COMMITTEE ADDRESS: 353461, Gelendzhik, Zastavnaya str., 10a Branch of SFedU in Gelendzhik, Department of Natural Sciences and Humanities, room.207",
+    "info": "The III International Youth Scientific School is carried out with the financial support of the Ministry of Science and Higher Education of the Russian Federation within the framework of the Megaproject, agreement No. 075-15-2022-1122. "
+  },
+  "sliderSection": {
+    "heading": "Excursion to the Bio-Farm \"Petrovsky\"",
+    "info": "Dear colleagues, an excursion to the Petrovsky Bio-Farm will take place on <date>September 12</date>. Details of the transfer departure will be available on September 11. Departure of the minibus from the Plaza hotel, with the possibility of boarding from the SFedU campus on the west. We inform you that the number of seats is limited and the transfer is booked for those who have registered for the tour on September 12. For all questions, please contact <span>89185529192 Svetlana</span>"
+}
+}

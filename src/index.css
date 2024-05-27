@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind forms;
+
+html {
+    scroll-behavior: smooth;
+}
+
+.carousel .slide img {
+    width: auto;
+    height: 100%;
+}
+
+.carousel img {
+    width: auto !important;
+    object-fit: scale-down !important;
+    display: inline !important;
+}
+
+.control-arrow {
+    color: black !important;
+}
